@@ -1,5 +1,6 @@
 # Pomodoro-main
-Yks ve türevi ögrencileri icin geliştirilen mobil uygulama 
+[TR] Yks ve türevi ögrencileri icin geliştirilen mobil uygulama 
+[EN] Mobile application developed to test exam time
 
 
 
